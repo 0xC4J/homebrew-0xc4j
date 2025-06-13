@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-class CJ < Formula
-  desc "Installer for CJ's development environment"
+class Cj < Formula
+  desc "Installer for cj's development environment"
   homepage "https://github.com/0xC4J/homebrew-0xc4j"
 
   url "https://github.com/0xC4J/homebrew-0xc4j/archive/refs/tags/v4.0.0.tar.gz"
