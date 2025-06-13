@@ -5,7 +5,7 @@ class Cj < Formula
   homepage "https://github.com/0xC4J/homebrew-0xc4j"
 
   url "https://github.com/0xC4J/homebrew-0xc4j/archive/refs/tags/v7.0.0.tar.gz"
-  sha256 "YOUR_VERY_FINAL_SHA256_HASH_HERE"
+  sha256 "8c7e33bcde449cc759b8db526ad5236fd471af97badb722506534e051b157023"
 
   license "MIT"
 
